@@ -34,3 +34,7 @@ The objective of the project is to  implementing and training a GAN model to gen
 - **tf.keras.losses.BinaryCrossentropy** : For calculating the loss during training.
 - **tf.GradientTape** : For automatic differentiation and calculating gradients.
 
+### OUTPUT
+![CODTECH INTERSHIP TASK2 OUTPUT](https://github.com/user-attachments/assets/009dafaf-c7e3-40a8-a4d7-8949ecfb8944)
+
+
